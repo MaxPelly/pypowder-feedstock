@@ -1,4 +1,4 @@
-{% set version = "0.0.0a4" %}
+{% set version = "0.0.0a6" %}
 
 package:
   name: pypowder

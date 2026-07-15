@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/P/PyPowder/pypowder-{{ version }}.tar.gz
-  sha256: 665a2f43c45ac78d962d5a2eb865263a63594abce3d9538600cebf2d77e79075
+  sha256: 63201190afe31ed78f1a6685bebcb6cbe8c3bf9fb2f41d5f4a28f76d5248a44a
 
 build:
   noarch: python

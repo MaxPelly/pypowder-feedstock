@@ -1,4 +1,4 @@
-{% set version = "0.0.0a6" %}
+{% set version = "1.0" %}
 
 package:
   name: pypowder
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/P/PyPowder/pypowder-{{ version }}.tar.gz
-  sha256: 63201190afe31ed78f1a6685bebcb6cbe8c3bf9fb2f41d5f4a28f76d5248a44a
+  sha256: 8ef1d45f80234edd8fb99f6960810cca87d6ecda79b768861039547a22f2464a
 
 build:
   noarch: python
